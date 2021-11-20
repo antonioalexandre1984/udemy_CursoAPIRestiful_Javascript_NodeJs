@@ -1,0 +1,16 @@
+Projeto curso udemy
+
+1- npm init -y
+2- npm install typescript ts-node-dev @types/node tsconfig-paths -D
+3- npx tsc --init --rootDir src --outDir build --esModuleInterop --resolveJsonModule --lib es6 --module commonjs --allowJs true --noImplicitAny true
+4- npx tsc
+5- baixar a extensão editorconfig
+6- yarn add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
+7- criar arquivo .eslintrc 
+8- Yarn lint
+9- yarn add prettier -D
+10- yarn add eslint-config-prettier@6.15.0 eslint-plugin-prettier@3.2.0 -D
+11- yarn add -D tsconfig-paths
+12- yarn add express cors express-async-errors
+13- yarn add -D @types/express @types/cors
+14- 
